@@ -24,8 +24,3 @@ Building the future of business automation with AI Agents and SaaS frameworks.
 
 ---
 
-### 📈 Current Repository Metrics
-[<p align="left">
-  <img src...>="https://github-readme-stats.vercel.app/api/top-langs/?username=FazalAbbas0&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-](https://github.com/FazalAbbas0/FazalAbbas0)
