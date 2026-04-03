@@ -3,9 +3,15 @@
 Building the future of business automation with AI Agents and SaaS frameworks. 
 
 ### 🚀 Quick Links
-[![Discord](https://img.shields.io/badge/Join_My_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hxKHAEydJu)
-[![Buy My AI Products](https://img.shields.io/badge/BUY_MY_AI_PRODUCTS-FF90AD?style=for-the-badge&logo=gumroad&logoColor=white)](https://https://neuralflowai.gumroad.com/?_gl=1*123jju*_ga*MTA2MDEyMzA1OS4xNzYzOTk2MDc2*_ga_6LJN6D94N6*czE3NzUyMTk4MzAkbzYwJGcwJHQxNzc1MjE5ODMwJGo2MCRsMCRoMA..
-[![Website](https://img.shields.io/badge/Official_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fazalabbas.tech)
+[![Discord](https://img.shields.io/badge/JOIN_MY_DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hxKHAEydJu)
+[![Buy My AI Products](https://img.shields.io/badge/BUY_MY_AI_PRODUCTS-FF90AD?style=for-the-badge&logo=gumroad&logoColor=white)](https://neuralflowai.gumroad.com)
+[![Official Website](https://img.shields.io/badge/OFFICIAL_WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fazalabbas.tech)
+
+---
+
+### 🌟 Featured Projects
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FazalAbbas0&repo=Agent-Intelligence-OS&theme=tokyonight)](https://github.com/FazalAbbas0/Agent-Intelligence-OS)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FazalAbbas0&repo=AI-Architect-Portfolio&theme=tokyonight)](https://github.com/FazalAbbas0/AI-Architect-Portfolio)
 
 ---
 
@@ -14,6 +20,9 @@ Building the future of business automation with AI Agents and SaaS frameworks.
 - **BamAyoon:** Business management systems for software houses.
 - **Enterprise AI Agents:** Specialized LLM implementations for GCC-based businesses.
 
+---
+
 ### 📈 My Progress (Real-Time Stats)
 ![Fazal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FazalAbbas0&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazalAbbas0&layout=compact&theme=tokyonight)
