@@ -4,7 +4,7 @@ Building the future of business automation with AI Agents and SaaS frameworks.
 
 ### 🚀 Quick Links
 [![Discord](https://img.shields.io/badge/Join_My_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hxKHAEydJu)
-[![Buy My AI Products](https://img.shields.io/badge/BUY_MY_AI_PRODUCTS-FF90AD?style=for-the-badge&logo=gumroad&logoColor=white)](https://https://neuralflowai.gumroad.com/?_gl=1*123jju*_ga*MTA2MDEyMzA1OS4xNzYzOTk2MDc2*_ga_6LJN6D94N6*czE3NzUyMTk4MzAkbzYwJGcwJHQxNzc1MjE5ODMwJGo2MCRsMCRoMA..)
+[![Buy My AI Products](https://img.shields.io/badge/BUY_MY_AI_PRODUCTS-FF90AD?style=for-the-badge&logo=gumroad&logoColor=white)](https://https://neuralflowai.gumroad.com/?_gl=1*123jju*_ga*MTA2MDEyMzA1OS4xNzYzOTk2MDc2*_ga_6LJN6D94N6*czE3NzUyMTk4MzAkbzYwJGcwJHQxNzc1MjE5ODMwJGo2MCRsMCRoMA..
 [![Website](https://img.shields.io/badge/Official_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fazalabbas.tech)
 
 ---
