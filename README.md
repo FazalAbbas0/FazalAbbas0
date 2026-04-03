@@ -9,9 +9,11 @@ Building the future of business automation with AI Agents and SaaS frameworks.
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects (Production Builds)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FazalAbbas0&repo=Agent-Intelligence-OS&theme=tokyonight)](https://github.com/FazalAbbas0/Agent-Intelligence-OS)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FazalAbbas0&repo=AI-Architect-Portfolio&theme=tokyonight)](https://github.com/FazalAbbas0/AI-Architect-Portfolio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FazalAbbas0&repo=SantoPDF&theme=tokyonight)](https://github.com/FazalAbbas0/SantoPDF)
+
+> **Note:** My core Agentic Portfolio remains private for security and proprietary logic. For a private demonstration of my enterprise-grade frameworks, connect with me via Discord.
 
 ---
 
@@ -22,7 +24,7 @@ Building the future of business automation with AI Agents and SaaS frameworks.
 
 ---
 
-### 📈 My Progress (Real-Time Stats)
-![Fazal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FazalAbbas0&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazalAbbas0&layout=compact&theme=tokyonight)
+### 📈 Current Repository Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FazalAbbas0&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
